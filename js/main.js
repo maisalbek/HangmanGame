@@ -10,6 +10,7 @@ let maxattempt = 9;
 let mistakes = 0;
 let guessed_letters = [];
 let words = []
+//asda
 
 start.addEventListener('click',()=>{
     document.addEventListener('click',(e)=>{
