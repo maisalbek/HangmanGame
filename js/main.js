@@ -10,7 +10,6 @@ let maxattempt = 9;
 let mistakes = 0;
 let guessed_letters = [];
 let words = []
-//adfahka
 
 start.addEventListener('click',()=>{
     document.addEventListener('click',(e)=>{
